@@ -2,7 +2,9 @@
 
 http://cloud.oracle.com/mobile
 
-[Dokumentacja kroków HandsOn](http://docs.oracle.com/cd/E65774_01/tutorials/tut_mcs_one_day_v4_5/tut_mcs_one_day_1.html)
+[Dokumentacja kroków HandsOn - MCS](http://bit.ly/oraclemcs021)
+
+[Dokumentacja kroków HandsOn - MAX](http://bit.ly/oraclemax001)
 
 ## Przydatne linki
 
